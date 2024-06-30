@@ -1,5 +1,6 @@
-```markdown
+---
 # Transfer Learning for Computer Vision using MobileNet
+---
 
 This project demonstrates the application of transfer learning techniques in computer vision tasks using MobileNet and a custom dataset of images. The goal is to leverage pre-trained models to enhance the performance and accuracy of image classification tasks.
 
